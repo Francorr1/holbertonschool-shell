@@ -1,1 +1,4 @@
-# 0: Prints the absolute pathname of the current directory
+# 0:Prints the absolute path of the current directory
+# 1:Displays the contents of the current directory
+# 2:Changes the directory to the current user's home directory
+
